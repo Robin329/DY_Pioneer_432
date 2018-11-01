@@ -1,0 +1,15 @@
+"D:\program files\IAR Systems\Embedded Workbench 8.22\arm\bin\armproc.dll" 
+
+"D:\program files\IAR Systems\Embedded Workbench 8.22\arm\bin\armxds2.dll" 
+
+"D:\work\DY_Pioneer_432\Debug\Exe\DY_Pioneer_432.out" 
+
+--plugin "D:\program files\IAR Systems\Embedded Workbench 8.22\arm\bin\armbat.dll" 
+
+--device_macro "D:\program files\IAR Systems\Embedded Workbench 8.22\arm\config\debugger\TexasInstruments\MSP432E401Y.dmac" 
+
+--flash_loader "D:\program files\IAR Systems\Embedded Workbench 8.22\arm\config\flashloader\TexasInstruments\FlashMSP432E401Y.board" 
+
+
+
+
